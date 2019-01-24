@@ -1,0 +1,30 @@
+<template name="suspectTableMini">
+
+    <table class="table table-condensed table-bordered datatable">
+        <thead>
+            <tr>
+                <th>Suspected</th>
+                <th>Time Contacted</th>
+                <th>Location</th>
+                <th>Total Contact Duration</th>
+                <th>Contact Frequency</th>
+                <th>Unique Locations</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {{#each suspects.contacts}}
+                <tr>
+                    <td>{{email}}</td>
+                    <td>{{time}}</td>
+                    <td>{{locationDesc}}</td>
+                    <td>{{totalContactDuration}}</td>
+                    <td>{{contactFreq}}</td>
+                    <td>{{uniqueLocations}}</td>
+                </tr>
+            {{/each}}
+        </tbody>
+    </table>
+
+
+</template>

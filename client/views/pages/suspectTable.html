@@ -1,0 +1,30 @@
+<template name="suspectTable">
+
+    <table class="table table-condensed table-bordered">
+        <thead>
+            <tr>
+                <td>Suspected</td>
+                <!--<td>Transmitter</td>-->
+                <td>Time Contacted</td>
+                <td>Location</td>
+                <td>Duration</td>
+                <td>Actions</td>
+            </tr>
+        </thead>
+
+        <tbody>
+            {{#each suspects.contacts}}
+                <tr>
+                    <td>{{email}}</td>
+                    <td>{{time}}</td>
+                    <td>{{locationDesc}}</td>
+                    <td>{{totalContactDuration}}</td>
+                    <td><button id="{{id}}" onclick='setModal(this)' class="btn btn-xs" data-toggle="modal" data-target="#myModal">Manage</button></td>
+                </tr>
+            {{/each}}
+        </tbody>
+    </table>
+	
+	
+
+</template>

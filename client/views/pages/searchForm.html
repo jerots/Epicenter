@@ -1,0 +1,52 @@
+<template name="searchForm">
+
+    <form class="form-horizontal">
+        <fieldset>
+
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-2 control-label" for="id">Search ID</label>
+                <div class="col-md-12">
+                    <input id="id" name="id" type="text" placeholder="MAC Address or Unique identifier" class="form-control input-md">
+
+                </div>
+            </div>
+
+            <!--Datepicker-->
+            <div class="form-group">
+                <label class="col-md-2 control-label" for="id">Diagnosed Date</label>
+                <div class="col-md-12 input-group datetimepicker">
+                    <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                    <input class="set-due-date form-control" type="text"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-2 control-label" for="id">Symptoms Observed Date</label>
+                <div class="col-md-12 input-group datetimepicker">
+                    <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                    <input class="set-due-date form-control" type="text"/>
+                </div>
+            </div>
+
+            <!-- Select Basic -->
+            <div class="form-group">
+                <label class="col-md-2 control-label" for="viralMode">Viral Mode</label>
+                <div class="col-md-12">
+                    <select id="viralMode" name="viralMode" class="form-control">
+                        <option value="MERS">Middle East Respiratory Syndrome (MERS)</option>
+                        <option value="SARS">Severe Acute Respiratory Syndrome (SARS)</option>
+                        <option value="EBOLA">Ebola</option>
+                        <option value="H1N1">H1N1</option>
+                        <option value="HFMD">Hand Foot Mouth Disease</option>
+                        <option value="CHICKENPOX">Varicella virus</option>
+                    </select>
+                </div>
+            </div>
+
+            <div id="viralStatsContainer"></div>
+
+        </fieldset>
+    </form>
+
+</template>

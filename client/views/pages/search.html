@@ -1,0 +1,120 @@
+<template name="search">
+	
+	<div class="fill">
+	<form method="POST" class="dark-matter">
+		
+		<h1>Epicenter
+			<span>Enter contact tracing details.</span>
+			<a id='thebutton' href='#'><span  class="glyphicon glyphicon-search" aria-hidden="true"></span></a>
+		</h1>
+		<div class="form-group">
+		<label>ID :</label>
+		<input id="name" class="form-control" type="text" name="name" placeholder="MAC Address or Unique Identifier" />
+		
+		</div>
+		<div class="form-group">
+			<label>
+				<span>Symptoms started :</span></label>
+				<!--<input id="starttime" type="text" name="starttime" placeholder="e.g. DATE FORMAT" />-->
+				<div class="container" style='overflow:visible;'>
+					<div class="row">
+						<div class='col-sm-5 date-container' style="padding:0px">
+							<input id="symptomDate" type='text' class="form-control datetimepicker"/>
+						</div>
+					</div>
+				</div>
+			
+		</div>
+		<div class="form-group">
+			<label>
+				<span>Confirmed diagnosis :</span></label>
+				<!--        <input id="endtime" type="text" name="endtime" placeholder="e.g. DATE FORMAT" />-->
+				<div class="container" style='overflow:visible;'>
+					<div class="row">
+						<div class='col-sm-5 date-container' style="padding:0px">
+							<input id="confirmedDate" type='text' class="form-control datetimepicker"/>
+						</div>
+					</div>
+				</div>
+			
+		</div>
+		<div class="form-group">
+			<label>
+				<span>Virus mode :</span></label>
+			<select id="viralMode" name="selection" class="form-control">
+			<option value="SARS">SARS</option>
+			<option value="MERS">MERS</option>
+			<option value="Ebola">Ebola</option>
+			<option value="H1N1">H1N1</option>
+			<option value="HFMD">Hand Foot Mouth Disease (HFMD)</option>
+			<option value="ChickenPox">Varicella virus (chicken pox)</option>
+			</select>
+		   
+		</div>
+		<!--<div id="viralStatsContainer" style="max-width: 100%"></div>-->
+			
+			<input type="submit" class="btn btn-warning" value="Start trace" /> 
+	</form>
+	</div>
+	<div id="content">
+		<div id='suspectmanagement'>
+			<center>
+			<h1 style='font-size:40px'>Case Management</h1>
+			
+				<div class="row" style="margin-bottom:15px;">
+					<div class="col-md-11">
+						<div class="col-md-offset-2 col-md-3"><div id="circle" style="width:70%;font-size:20px"></div><h5>Contacted</h5></div>
+						<div class="col-md-3"><div id="circle2" style="width:70%;font-size:20px"></div><h5>Admitted</h5></div>
+						<div class="col-md-3"><div id="circle3" style="width:70%;font-size:20px"></div><h5>Unidentified</h5></div>
+					</div>
+					<div class="col-md-1">
+						<button class="btn btn-default" id="clearAll" type="submit">Clear all</button>
+					</div>
+				</div>
+				<div class="row">
+					<div style="height:350px;overflow:auto">  
+					{{> suspectTable }}
+					</div>
+				
+				</div>
+			</center>
+		
+		</div>
+	</div>
+	<div id="background">
+		<center>
+		<img src="/theprotocol.png" />
+		</center>
+	</div>
+	
+	
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Manage contact</h4>
+      </div>
+      <div class="modal-body">
+		  <h3>Contact tracing guidelines</h3><br>
+		  <ul style="font-size: 16px">
+			  <li> Advice suspected to remain at home as much as possible and restrict close contact with other people.</li><br>
+			  <li> Suspected should avoid crowded places, social gatherings, and public transport.</li><br>
+			<li> Suspect to report any suspicious signs and symptoms immediately (fever, bleeding, etc)</li>
+		  </ul>
+		  <br>
+		  <h5 style="text-align:right">Ministry of Health helpline: 1800 221 4444</h5>
+		  <h5 style="text-align:right">Singapore General Hospital hotline: 6321 4311</h5>
+		  
+		  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Uncontactable</button>
+        <button type="button" class="btn btn-warning" data-dismiss="modal" onclick="updateContacted();">Contacted</button>
+		<button type="button" class="btn btn-danger" data-dismiss="modal" onclick="updateAdmitted();">Admitted</button>
+      </div>
+    </div>
+  </div>
+</div>
+	
+</template>

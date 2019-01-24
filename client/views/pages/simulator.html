@@ -1,0 +1,100 @@
+<template name="simulator">
+
+    <!--<a href="#" id="bt-menu-trigger-out" class="bt-menu-trigger-out"><span class="bt-icon-alt icon-play"></span></a>-->
+    <nav id="bt-menu" class="bt-menu">
+<!--        <a href="#" class="bt-menu-trigger"><i class="fa fa-close fa-lg"></i></a>-->
+	<a href="#" class="bt-menu-trigger"><i class="fa fa-close fa-lg"></i></a>
+        <ul class="bt-menu-top">
+            <!--<li><a href="#" class="bt-icon-alt icon-step-backward">Start</a></li>-->
+            <!--<li><a href="#" class="bt-icon-alt icon-backward">Fast Backward</a></li>-->
+            <li><a href="#" class="bt-icon-alt icon-play"> Play</a></li>
+			<li><a href="#" class="bt-icon-alt icon-stop"> Stop</a></li>
+            <!--<li><a href="#" class="bt-icon-alt icon-forward">Fast Forward</a></li>-->
+            <!--<li><a href="#" class="bt-icon-alt icon-step-forward">Next</a></li>-->
+			<li><div id="sliderWrapper">
+			<div id="slider"></div>
+				</div></li>
+				<li><a href="#" id="timeWrapper" class="bt-icon-alt"><h5>Time: <span id="time"></span></h5></a></li>
+			
+			
+        </ul>
+        <ul class="bt-menu-bottom">
+            <!--<span data-target='#search' data-toggle='modal'><a href="#"><li id="searchbox" data-toggle="tooltip" data-placement="top" title="Start new Contact Trace"> dummy </li></a></span>-->
+
+			<a href="#"><li id="addsuspectbox" data-toggle="tooltip" data-placement="top" title="Add all to suspect list"><!-- dummy --></li></a>
+            
+			<span data-target='#searchSuspects' data-toggle='modal'><a href="#"><li id="viewsuspectbox" data-toggle="tooltip" data-placement="top" title="Current search compilation"><!-- dummy --></li></a></span>
+            
+			
+			<span data-target='#viewGeneration' data-toggle='modal'><a href="#"><li id="generationbox" data-toggle="tooltip" data-placement="top" title="View generation nodes"><!-- dummy --></li></a></span>
+
+        </ul>
+		
+	</nav>
+	
+	<div id='searchSuspects' class="modal fade">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">List of potential infected</h4>
+      </div>
+      <div class="modal-body">
+          {{> suspectTableMini }}
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-warning" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div id='viewGeneration' class="modal fade">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">View Graph of Viral Transmission</h4>
+      </div>
+      <div class="modal-body">
+        {{> networkView}}
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+    <div id='search' class="modal fade">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">New Contact Trace</h4>
+                </div>
+                <div class="modal-body">
+                    {{> searchForm }}
+                </div>
+
+                <div class="modal-footer">
+                    <button id="start-btn" type="button" class="btn btn-warning" data-dismiss="modal">Start Simulation</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div id="overlay" class="bt-overlay hidden ">
+		
+        <div class="floorplan">
+			<div id="bg-container">
+<!--				<img src="/floorplan/SIS_Level_2.png" alt=""/>-->
+			</div>
+			<div class="dots-container">
+				<!--<div class="infected" id="jeremy" style="left: 300px; top:400px;"></div>-->
+				<!--<div class="clean" id="clarence" style="left: 300px; top:400px;"></div>-->
+				<!--<div class="clean" id="eustace" style="left: 367px; top:222px;"></div>-->
+			</div>
+		</div>
+    </div>
+
+</template>

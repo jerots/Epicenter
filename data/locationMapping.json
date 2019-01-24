@@ -1,0 +1,8542 @@
+{
+  "1010100001": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100002": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100003": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100004": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100005": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100006": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100007": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100008": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100009": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100010": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100011": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100012": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100013": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100014": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100015": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100016": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100017": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100018": {
+    "section": "3",
+    "description": "SMUSISL1RECEPTION"
+  },
+  "1010100019": {
+    "section": "3",
+    "description": "SMUSISL1RECEPTION"
+  },
+  "1010100020": {
+    "section": "3",
+    "description": "SMUSISL1RECEPTION"
+  },
+  "1010100021": {
+    "section": "3",
+    "description": "SMUSISL1RECEPTION"
+  },
+  "1010100022": {
+    "section": "3",
+    "description": "SMUSISL1RECEPTION"
+  },
+  "1010100023": {
+    "section": "3",
+    "description": "SMUSISL1RECEPTION"
+  },
+  "1010100024": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100025": {
+    "section": "2",
+    "description": "SMUSISL1WAITINGAREA"
+  },
+  "1010100026": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100027": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100028": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100029": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100030": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100031": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100032": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100033": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100034": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100035": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100036": {
+    "section": "1",
+    "description": "SMUSISL1LOBBY"
+  },
+  "1010100037": {
+    "section": "3",
+    "description": "SMUSISL1RECEPTION"
+  },
+  "1010100038": {
+    "section": "3",
+    "description": "SMUSISL1RECEPTION"
+  },
+  "1010100039": {
+    "section": "3",
+    "description": "SMUSISL1RECEPTION"
+  },
+  "1010110001": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110002": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110003": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110004": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110005": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110006": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110007": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110008": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110009": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110010": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110011": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110012": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110013": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110014": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110015": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110016": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110017": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110018": {
+    "section": "30",
+    "description": "SMUSISB1CORRIDORTOSOE"
+  },
+  "1010110019": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110020": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110021": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110022": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110023": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110024": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110025": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110026": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110027": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110028": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110029": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110030": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110031": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110032": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110033": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110034": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110035": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110036": {
+    "section": "31",
+    "description": "SMUSISB1LIFTLOBBY"
+  },
+  "1010110037": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110038": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110039": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110040": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110041": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110042": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110043": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110044": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110045": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110046": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110047": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110048": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110049": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110050": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110051": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110052": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110053": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110054": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110055": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110056": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110057": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110058": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110059": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110060": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110061": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110062": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110063": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110064": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110065": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110066": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110067": {
+    "section": "32",
+    "description": "SMUSISB1STUDYAREA"
+  },
+  "1010110068": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110069": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110070": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110071": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110072": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110073": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110074": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110075": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110076": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110077": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110078": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110079": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110080": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110081": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110082": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110083": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110084": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110085": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110086": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110087": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110088": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110089": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110090": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110091": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110092": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110093": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110094": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110095": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110096": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110097": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110098": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110099": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110100": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110101": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110150": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110151": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110152": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110153": {
+    "section": "33",
+    "description": "SMUSISB1NEAROSL"
+  },
+  "1010110154": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110155": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110156": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010110157": {
+    "section": "34",
+    "description": "SMUSISB1CORRIDORTOLKS"
+  },
+  "1010200001": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200002": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200003": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200010": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200011": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200012": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200013": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200014": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200015": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200016": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200017": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200018": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200019": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200020": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200021": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200022": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200023": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200024": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200025": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200026": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200027": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200028": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200029": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200030": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200031": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200032": {
+    "section": "4",
+    "description": "SMUSISL2LOBBY"
+  },
+  "1010200033": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200034": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200035": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200036": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200037": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200038": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200039": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200040": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200041": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200042": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200043": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200044": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200045": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200046": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200047": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200048": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200049": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200050": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200051": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200052": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200053": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200054": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200055": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200056": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200057": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200058": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200059": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200060": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200061": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200062": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200063": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200064": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200065": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200066": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200067": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200068": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200069": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200070": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200071": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200072": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200073": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200074": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200075": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200076": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200077": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200078": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200079": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200080": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200081": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200082": {
+    "section": "10",
+    "description": "SMUSISL2SR2-4"
+  },
+  "1010200083": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200084": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200085": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200086": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200087": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200088": {
+    "section": "6",
+    "description": "SMUSISL2STUDYAREA2"
+  },
+  "1010200089": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200090": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200091": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200092": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200093": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200094": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200095": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200096": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200097": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200098": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200099": {
+    "section": "9",
+    "description": "SMUSISL2SR2-3"
+  },
+  "1010200100": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200101": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200102": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200103": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200104": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200105": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200106": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200107": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200108": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200109": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200110": {
+    "section": "8",
+    "description": "SMUSISL2SR2-2"
+  },
+  "1010200111": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200112": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200113": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200114": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200115": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200116": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200117": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200118": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200119": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200120": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200121": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200122": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200123": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200124": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200125": {
+    "section": "7",
+    "description": "SMUSISL2SR2-1"
+  },
+  "1010200126": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200127": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200128": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200129": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200130": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200131": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200132": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200133": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200134": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200135": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200136": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200137": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200138": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200139": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200140": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200141": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010200142": {
+    "section": "5",
+    "description": "SMUSISL2STUDYAREA1"
+  },
+  "1010300001": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300002": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300003": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300004": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300005": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300006": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300007": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300008": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300009": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300010": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300025": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300026": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300027": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300028": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300029": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300030": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300031": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300032": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300033": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300034": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300035": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300036": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300037": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300038": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300039": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300040": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300041": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300042": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300043": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300044": {
+    "section": "11",
+    "description": "SMUSISL3LOBBY"
+  },
+  "1010300045": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300046": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300047": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300048": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300049": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300050": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300051": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300052": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300053": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300054": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300055": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300056": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300057": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300058": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300059": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300060": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300061": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300062": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300063": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300064": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300065": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300066": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300067": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300068": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300069": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300070": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300071": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300072": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300073": {
+    "section": "13",
+    "description": "SMUSISL3STUDYAREA2"
+  },
+  "1010300074": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300075": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300076": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300077": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300078": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300079": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300080": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300081": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300082": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300083": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300084": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300085": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300086": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300087": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300088": {
+    "section": "17",
+    "description": "SMUSISL3SR3-4"
+  },
+  "1010300089": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300090": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300091": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300092": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300093": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300094": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300095": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300096": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300097": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300098": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300099": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300100": {
+    "section": "18",
+    "description": "SMUSISL3CLSRM"
+  },
+  "1010300101": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300102": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300103": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300104": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300105": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300106": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300107": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300108": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300109": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300110": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300111": {
+    "section": "16",
+    "description": "SMUSISL3SR3-3"
+  },
+  "1010300112": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300113": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300114": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300115": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300116": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300117": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300118": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300119": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300120": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300121": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300122": {
+    "section": "15",
+    "description": "SMUSISL3SR3-2"
+  },
+  "1010300123": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300124": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300125": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300126": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300127": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300128": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300129": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300130": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300131": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300132": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300133": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300134": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300135": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300136": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300137": {
+    "section": "14",
+    "description": "SMUSISL3SR3-1"
+  },
+  "1010300138": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300139": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300140": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300141": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300142": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300143": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300144": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300145": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300146": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300147": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300148": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300149": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300150": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010300151": {
+    "section": "12",
+    "description": "SMUSISL3STUDYAREA1"
+  },
+  "1010400001": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400002": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400003": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400004": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400005": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400006": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400007": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400008": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400009": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400010": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400011": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400012": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400013": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400014": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400015": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400016": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400017": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400018": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400019": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400020": {
+    "section": "19",
+    "description": "SMUSISL4LOBBY"
+  },
+  "1010400021": {
+    "section": "21",
+    "description": "SMUSISL4STUDYAREA1"
+  },
+  "1010400022": {
+    "section": "21",
+    "description": "SMUSISL4STUDYAREA1"
+  },
+  "1010400023": {
+    "section": "21",
+    "description": "SMUSISL4STUDYAREA1"
+  },
+  "1010400024": {
+    "section": "21",
+    "description": "SMUSISL4STUDYAREA1"
+  },
+  "1010400025": {
+    "section": "21",
+    "description": "SMUSISL4STUDYAREA1"
+  },
+  "1010400026": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400027": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400028": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400029": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400030": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400031": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400032": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400033": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400034": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400035": {
+    "section": "22",
+    "description": "SMUSISL4STUDYAREA2"
+  },
+  "1010400036": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400037": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400038": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400039": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400040": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400041": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400042": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400043": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400044": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400045": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400046": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400047": {
+    "section": "25",
+    "description": "SMUSISL4STUDYAREA3"
+  },
+  "1010400048": {
+    "section": "25",
+    "description": "SMUSISL4STUDYAREA3"
+  },
+  "1010400049": {
+    "section": "25",
+    "description": "SMUSISL4STUDYAREA3"
+  },
+  "1010400050": {
+    "section": "25",
+    "description": "SMUSISL4STUDYAREA3"
+  },
+  "1010400051": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400052": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400053": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400054": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400055": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400056": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400057": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400058": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400059": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400060": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400061": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400062": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400063": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400064": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400065": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400066": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400067": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400068": {
+    "section": "23",
+    "description": "SMUSISL4ACADOFFICE"
+  },
+  "1010400069": {
+    "section": "24",
+    "description": "SMUSISL4STUDYAREA4"
+  },
+  "1010400070": {
+    "section": "24",
+    "description": "SMUSISL4STUDYAREA4"
+  },
+  "1010400071": {
+    "section": "24",
+    "description": "SMUSISL4STUDYAREA4"
+  },
+  "1010400072": {
+    "section": "24",
+    "description": "SMUSISL4STUDYAREA4"
+  },
+  "1010400073": {
+    "section": "24",
+    "description": "SMUSISL4STUDYAREA4"
+  },
+  "1010400074": {
+    "section": "24",
+    "description": "SMUSISL4STUDYAREA4"
+  },
+  "1010400075": {
+    "section": "24",
+    "description": "SMUSISL4STUDYAREA4"
+  },
+  "1010400076": {
+    "section": "24",
+    "description": "SMUSISL4STUDYAREA4"
+  },
+  "1010500001": {
+    "section": "26",
+    "description": "SMUSISL5LOBBY"
+  },
+  "1010500002": {
+    "section": "26",
+    "description": "SMUSISL5LOBBY"
+  },
+  "1010500003": {
+    "section": "26",
+    "description": "SMUSISL5LOBBY"
+  },
+  "1010500004": {
+    "section": "26",
+    "description": "SMUSISL5LOBBY"
+  },
+  "1010500005": {
+    "section": "26",
+    "description": "SMUSISL5LOBBY"
+  },
+  "1010500006": {
+    "section": "26",
+    "description": "SMUSISL5LOBBY"
+  },
+  "1010500007": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500008": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500009": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500010": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500011": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500012": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500013": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500014": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500015": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500016": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500017": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500018": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500019": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500020": {
+    "section": "27",
+    "description": "SMUSISL5STUDYAREA1"
+  },
+  "1010500021": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500022": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500023": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500024": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500025": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500026": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500027": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500028": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500029": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500030": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500031": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500032": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500033": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500034": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500035": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500036": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500037": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500038": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500039": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500040": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500041": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500042": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500043": {
+    "section": "28",
+    "description": "SMUSISL5ACADOFFICE"
+  },
+  "1010500044": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500045": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500046": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500047": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500048": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500049": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500050": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500051": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500052": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500053": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500054": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500055": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500056": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500057": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500058": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500059": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500060": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1010500061": {
+    "section": "29",
+    "description": "SMUSISL5STUDYAREA2"
+  },
+  "1020100001": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100002": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100003": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100004": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100005": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100006": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100007": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100008": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100009": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100010": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100011": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100012": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100013": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100014": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100015": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100016": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100017": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100018": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100019": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100020": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100021": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100022": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100023": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100024": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100025": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100026": {
+    "section": "225",
+    "description": "SMUSESSL1STDYAREA1"
+  },
+  "1020100027": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100028": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100029": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100030": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100031": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100032": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100033": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100034": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100035": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100036": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100037": {
+    "section": "223",
+    "description": "SMUSESSL1STDYAREA2"
+  },
+  "1020100038": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100039": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100040": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100041": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100042": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100043": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100044": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100045": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100046": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100047": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100048": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100049": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100050": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100051": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100052": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100053": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100054": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100055": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100056": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100057": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100058": {
+    "section": "219",
+    "description": "SMUSESSL1STDYAREA3"
+  },
+  "1020100059": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100060": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100061": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100062": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100063": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020100064": {
+    "section": "215",
+    "description": "SMUSESSL1RECEPTION"
+  },
+  "1020110001": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110002": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110003": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110004": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110005": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110006": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110007": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110008": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110009": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110010": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110011": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110012": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110013": {
+    "section": "207",
+    "description": "SMUSESSB1ARTS-DRAMA"
+  },
+  "1020110014": {
+    "section": "204",
+    "description": "SMUSESSB1CORRSTDYAREA1"
+  },
+  "1020110015": {
+    "section": "204",
+    "description": "SMUSESSB1CORRSTDYAREA1"
+  },
+  "1020110016": {
+    "section": "204",
+    "description": "SMUSESSB1CORRSTDYAREA1"
+  },
+  "1020110017": {
+    "section": "204",
+    "description": "SMUSESSB1CORRSTDYAREA1"
+  },
+  "1020110018": {
+    "section": "204",
+    "description": "SMUSESSB1CORRSTDYAREA1"
+  },
+  "1020110019": {
+    "section": "204",
+    "description": "SMUSESSB1CORRSTDYAREA1"
+  },
+  "1020110020": {
+    "section": "201",
+    "description": "SMUSESSB1GYMENTRANCE"
+  },
+  "1020110021": {
+    "section": "201",
+    "description": "SMUSESSB1GYMENTRANCE"
+  },
+  "1020110022": {
+    "section": "201",
+    "description": "SMUSESSB1GYMENTRANCE"
+  },
+  "1020110023": {
+    "section": "201",
+    "description": "SMUSESSB1GYMENTRANCE"
+  },
+  "1020110024": {
+    "section": "201",
+    "description": "SMUSESSB1GYMENTRANCE"
+  },
+  "1020110025": {
+    "section": "201",
+    "description": "SMUSESSB1GYMENTRANCE"
+  },
+  "1020110026": {
+    "section": "201",
+    "description": "SMUSESSB1GYMENTRANCE"
+  },
+  "1020110027": {
+    "section": "201",
+    "description": "SMUSESSB1GYMENTRANCE"
+  },
+  "1020110028": {
+    "section": "201",
+    "description": "SMUSESSB1GYMENTRANCE"
+  },
+  "1020110029": {
+    "section": "210",
+    "description": "SMUSESSB1INSIDEGYM"
+  },
+  "1020110030": {
+    "section": "210",
+    "description": "SMUSESSB1INSIDEGYM"
+  },
+  "1020110031": {
+    "section": "210",
+    "description": "SMUSESSB1INSIDEGYM"
+  },
+  "1020110032": {
+    "section": "210",
+    "description": "SMUSESSB1INSIDEGYM"
+  },
+  "1020110033": {
+    "section": "210",
+    "description": "SMUSESSB1INSIDEGYM"
+  },
+  "1020200001": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200002": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200003": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200004": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200005": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200006": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200007": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200008": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200009": {
+    "section": "239",
+    "description": "SMUSESSL2CORRIDOR-SR2-1"
+  },
+  "1020200010": {
+    "section": "239",
+    "description": "SMUSESSL2CORRIDOR-SR2-1"
+  },
+  "1020200011": {
+    "section": "239",
+    "description": "SMUSESSL2CORRIDOR-SR2-1"
+  },
+  "1020200012": {
+    "section": "239",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200013": {
+    "section": "239",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200014": {
+    "section": "246",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200015": {
+    "section": "246",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200016": {
+    "section": "246",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200017": {
+    "section": "246",
+    "description": "SMUSESSL2CORRIDOR-CL2-1"
+  },
+  "1020200018": {
+    "section": "246",
+    "description": "SMUSESSL2CORRIDOR-CL2-1"
+  },
+  "1020200019": {
+    "section": "246",
+    "description": "SMUSESSL2CORRIDOR-CL2-1"
+  },
+  "1020200020": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-5"
+  },
+  "1020200021": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-5"
+  },
+  "1020200022": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-5"
+  },
+  "1020200023": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-5"
+  },
+  "1020200024": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-5"
+  },
+  "1020200025": {
+    "section": "259",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200026": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200027": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200028": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200029": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200030": {
+    "section": "259",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200031": {
+    "section": "264",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200032": {
+    "section": "264",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200033": {
+    "section": "264",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200034": {
+    "section": "264",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200035": {
+    "section": "264",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200036": {
+    "section": "231",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200037": {
+    "section": "231",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200038": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200039": {
+    "section": "272",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200040": {
+    "section": "272",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200041": {
+    "section": "272",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200042": {
+    "section": "270",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200043": {
+    "section": "270",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200044": {
+    "section": "270",
+    "description": "SMUSESSL2CORRIDOR-SR2-9"
+  },
+  "1020200045": {
+    "section": "265",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200046": {
+    "section": "265",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200047": {
+    "section": "265",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200048": {
+    "section": "260",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200049": {
+    "section": "260",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200050": {
+    "section": "260",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200051": {
+    "section": "258",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200052": {
+    "section": "258",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200053": {
+    "section": "258",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200054": {
+    "section": "257",
+    "description": "SMUSESSL2CORRIDOR-SR2-5"
+  },
+  "1020200055": {
+    "section": "257",
+    "description": "SMUSESSL2CORRIDOR-SR2-5"
+  },
+  "1020200056": {
+    "section": "257",
+    "description": "SMUSESSL2CORRIDOR-SR2-5"
+  },
+  "1020200057": {
+    "section": "253",
+    "description": "SMUSESSL2CORRIDOR-CL2-1"
+  },
+  "1020200058": {
+    "section": "253",
+    "description": "SMUSESSL2CORRIDOR-CL2-1"
+  },
+  "1020200059": {
+    "section": "252",
+    "description": "SMUSESSL2CORRIDOR-CL2-1"
+  },
+  "1020200060": {
+    "section": "252",
+    "description": "SMUSESSL2CORRIDOR-CL2-1"
+  },
+  "1020200061": {
+    "section": "247",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200062": {
+    "section": "247",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200063": {
+    "section": "247",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200064": {
+    "section": "242",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200065": {
+    "section": "242",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200066": {
+    "section": "242",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200067": {
+    "section": "240",
+    "description": "SMUSESSL2CORRIDOR-SR2-1"
+  },
+  "1020200068": {
+    "section": "240",
+    "description": "SMUSESSL2CORRIDOR-SR2-1"
+  },
+  "1020200069": {
+    "section": "240",
+    "description": "SMUSESSL2CORRIDOR-SR2-1"
+  },
+  "1020200070": {
+    "section": "238",
+    "description": "SMUSESSL2CORRIDOR-SR2-1"
+  },
+  "1020200071": {
+    "section": "238",
+    "description": "SMUSESSL2CORRIDOR-SR2-1"
+  },
+  "1020200072": {
+    "section": "238",
+    "description": "SMUSESSL2CORRIDOR-SR2-1"
+  },
+  "1020200073": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200074": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200075": {
+    "section": "231",
+    "description": "SMUSESSL2LOBBY"
+  },
+  "1020200076": {
+    "section": "239",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200077": {
+    "section": "239",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200078": {
+    "section": "239",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200079": {
+    "section": "246",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200080": {
+    "section": "246",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200081": {
+    "section": "246",
+    "description": "SMUSESSL2CORRIDOR-SR2-3"
+  },
+  "1020200082": {
+    "section": "259",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200083": {
+    "section": "259",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200084": {
+    "section": "259",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200085": {
+    "section": "264",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200086": {
+    "section": "264",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200087": {
+    "section": "264",
+    "description": "SMUSESSL2CORRIDOR-SR2-7"
+  },
+  "1020200088": {
+    "section": "254",
+    "description": "SMUSESSL2CORRIDOR-SR2-5"
+  },
+  "1020300001": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300002": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300003": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300004": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300005": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300006": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300007": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300009": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300010": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300011": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300012": {
+    "section": "287",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300013": {
+    "section": "287",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300014": {
+    "section": "287",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300015": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300016": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300017": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300018": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300019": {
+    "section": "296",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300020": {
+    "section": "296",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300021": {
+    "section": "296",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300022": {
+    "section": "296",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300023": {
+    "section": "299",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300024": {
+    "section": "299",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300025": {
+    "section": "299",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300026": {
+    "section": "295",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300027": {
+    "section": "295",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300028": {
+    "section": "295",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300029": {
+    "section": "294",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300030": {
+    "section": "294",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300031": {
+    "section": "294",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300032": {
+    "section": "288",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300033": {
+    "section": "288",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300034": {
+    "section": "288",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300035": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300036": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300037": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300038": {
+    "section": "286",
+    "description": "SMUSESSL3CORRIDOR-SR3-2"
+  },
+  "1020300039": {
+    "section": "296",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300040": {
+    "section": "296",
+    "description": "SMUSESSL3CORRIDOR-CL-SR"
+  },
+  "1020300041": {
+    "section": "301",
+    "description": "SMUSESSL3STUDYAREA"
+  },
+  "1020300042": {
+    "section": "301",
+    "description": "SMUSESSL3STUDYAREA"
+  },
+  "1020300043": {
+    "section": "301",
+    "description": "SMUSESSL3STUDYAREA"
+  },
+  "1020300044": {
+    "section": "301",
+    "description": "SMUSESSL3STUDYAREA"
+  },
+  "1020300045": {
+    "section": "301",
+    "description": "SMUSESSL3STUDYAREA"
+  },
+  "1020300046": {
+    "section": "301",
+    "description": "SMUSESSL3STUDYAREA"
+  },
+  "1020300047": {
+    "section": "301",
+    "description": "SMUSESSL3STUDYAREA"
+  },
+  "1020300048": {
+    "section": "301",
+    "description": "SMUSESSL3STUDYAREA"
+  },
+  "1020300049": {
+    "section": "301",
+    "description": "SMUSESSL3CORRIDOR-SR3-5"
+  },
+  "1020300050": {
+    "section": "301",
+    "description": "SMUSESSL3CORRIDOR-SR3-5"
+  },
+  "1020300051": {
+    "section": "301",
+    "description": "SMUSESSL3CORRIDOR-SR3-5"
+  },
+  "1020300052": {
+    "section": "308",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300053": {
+    "section": "308",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300054": {
+    "section": "312",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300055": {
+    "section": "312",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300056": {
+    "section": "281",
+    "description": "SMUSESSL3CORRIDOR-SR3-10"
+  },
+  "1020300057": {
+    "section": "281",
+    "description": "SMUSESSL3CORRIDOR-SR3-10"
+  },
+  "1020300058": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300059": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300060": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300061": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300062": {
+    "section": "281",
+    "description": "SMUSESSL3LOBBY"
+  },
+  "1020300063": {
+    "section": "312",
+    "description": "SMUSESSL3GSR314"
+  },
+  "1020300064": {
+    "section": "312",
+    "description": "SMUSESSL3GSR315"
+  },
+  "1020300065": {
+    "section": "312",
+    "description": "SMUSESSL3GSR316"
+  },
+  "1020300066": {
+    "section": "312",
+    "description": "SMUSESSL3GSR317"
+  },
+  "1020300067": {
+    "section": "310",
+    "description": "SMUSESSL3CL305"
+  },
+  "1020300068": {
+    "section": "310",
+    "description": "SMUSESSL3CL305"
+  },
+  "1020300070": {
+    "section": "305",
+    "description": "SMUSESSL3CORRIDOR-SR3-5"
+  },
+  "1020300071": {
+    "section": "305",
+    "description": "SMUSESSL3CORRIDOR-SR3-5"
+  },
+  "1020300072": {
+    "section": "305",
+    "description": "SMUSESSL3CORRIDOR-SR3-5"
+  },
+  "1020300073": {
+    "section": "306",
+    "description": "SMUSESSL3CORRIDOR-SR3-5"
+  },
+  "1020300074": {
+    "section": "306",
+    "description": "SMUSESSL3CORRIDOR-SR3-5"
+  },
+  "1020300075": {
+    "section": "306",
+    "description": "SMUSESSL3CORRIDOR-SR3-5"
+  },
+  "1020300076": {
+    "section": "307",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300077": {
+    "section": "307",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300078": {
+    "section": "307",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300079": {
+    "section": "311",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300080": {
+    "section": "311",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300081": {
+    "section": "311",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020300082": {
+    "section": "317",
+    "description": "SMUSESSL3CORRIDOR-SR3-10"
+  },
+  "1020300083": {
+    "section": "317",
+    "description": "SMUSESSL3CORRIDOR-SR3-10"
+  },
+  "1020300084": {
+    "section": "317",
+    "description": "SMUSESSL3CORRIDOR-SR3-10"
+  },
+  "1020300085": {
+    "section": "319",
+    "description": "SMUSESSL3CORRIDOR-SR3-10"
+  },
+  "1020300086": {
+    "section": "319",
+    "description": "SMUSESSL3CORRIDOR-SR3-10"
+  },
+  "1020300087": {
+    "section": "319",
+    "description": "SMUSESSL3CORRIDOR-SR3-10"
+  },
+  "1020300088": {
+    "section": "281",
+    "description": "SMUSESSL3CORRIDOR-SR3-10"
+  },
+  "1020300089": {
+    "section": "308",
+    "description": "SMUSESSL3-CL-SR"
+  },
+  "1020400001": {
+    "section": "326",
+    "description": "SMUSESSL4LIFTLOBBY"
+  },
+  "1020400002": {
+    "section": "326",
+    "description": "SMUSESSL4LIFTLOBBY"
+  },
+  "1020400003": {
+    "section": "326",
+    "description": "SMUSESSL4LIFTLOBBY"
+  },
+  "1020400004": {
+    "section": "326",
+    "description": "SMUSESSL4LIFTLOBBY"
+  },
+  "1020400005": {
+    "section": "326",
+    "description": "SMUSESSL4LIFTLOBBY"
+  },
+  "1020400006": {
+    "section": "326",
+    "description": "SMUSESSL4LIFTLOBBY"
+  },
+  "1020400007": {
+    "section": "348",
+    "description": "SMUSESSL4CORR-DEANS_OFF"
+  },
+  "1020400008": {
+    "section": "348",
+    "description": "SMUSESSL4CORR-DEANS_OFF"
+  },
+  "1020400009": {
+    "section": "348",
+    "description": "SMUSESSL4CORR-DEANS_OFF"
+  },
+  "1020400010": {
+    "section": "348",
+    "description": "SMUSESSL4CORR-DEANS_OFF"
+  },
+  "1020400011": {
+    "section": "348",
+    "description": "SMUSESSL4CORR-DEANS_OFF"
+  },
+  "1020400012": {
+    "section": "348",
+    "description": "SMUSESSL4CORR-DEANS_OFF"
+  },
+  "1020400013": {
+    "section": "327",
+    "description": "SMUSESSL4CORR-DEANS_OFF"
+  },
+  "1020400014": {
+    "section": "327",
+    "description": "SMUSESSL4CORR-DEANS_OFF"
+  },
+  "1020400015": {
+    "section": "327",
+    "description": "SMUSESSL4CORR-DEANS_OFF"
+  },
+  "1020400016": {
+    "section": "326",
+    "description": "SMUSESSL4LIFTLOBBY"
+  },
+  "1020400017": {
+    "section": "326",
+    "description": "SMUSESSL4LIFTLOBBY"
+  },
+  "1020400018": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400019": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400020": {
+    "section": "329",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400021": {
+    "section": "329",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400022": {
+    "section": "329",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400023": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400024": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400025": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400026": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400027": {
+    "section": "333",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400028": {
+    "section": "333",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400029": {
+    "section": "333",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400030": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400031": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400032": {
+    "section": "326",
+    "description": "SMUSESSL4LIFTLOBBY"
+  },
+  "1020400033": {
+    "section": "335",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400034": {
+    "section": "335",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400035": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400036": {
+    "section": "328",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400037": {
+    "section": "336",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400038": {
+    "section": "336",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400039": {
+    "section": "336",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400040": {
+    "section": "340",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400041": {
+    "section": "340",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400042": {
+    "section": "340",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400043": {
+    "section": "340",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400044": {
+    "section": "340",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400045": {
+    "section": "340",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400046": {
+    "section": "340",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400047": {
+    "section": "340",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400048": {
+    "section": "341",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400049": {
+    "section": "341",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400050": {
+    "section": "341",
+    "description": "SMUSESSL4CORRIDOR-SR-CL"
+  },
+  "1020400051": {
+    "section": "342",
+    "description": "SMUSESSL4CORROFFICE"
+  },
+  "1020400052": {
+    "section": "342",
+    "description": "SMUSESSL4CORROFFICE"
+  },
+  "1020400053": {
+    "section": "342",
+    "description": "SMUSESSL4CORROFFICE"
+  },
+  "1020400054": {
+    "section": "342",
+    "description": "SMUSESSL4CORROFFICE"
+  },
+  "1020400055": {
+    "section": "343",
+    "description": "SMUSESSL4CORROFFICE"
+  },
+  "1020400056": {
+    "section": "343",
+    "description": "SMUSESSL4CORROFFICE"
+  },
+  "1020400057": {
+    "section": "343",
+    "description": "SMUSESSL4CORROFFICE"
+  },
+  "1020400058": {
+    "section": "342",
+    "description": "SMUSESSL4CORROFFICE"
+  },
+  "1020400059": {
+    "section": "344",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400060": {
+    "section": "344",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400061": {
+    "section": "344",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400062": {
+    "section": "344",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400063": {
+    "section": "344",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400064": {
+    "section": "345",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400065": {
+    "section": "345",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400066": {
+    "section": "345",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400067": {
+    "section": "345",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400068": {
+    "section": "345",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400069": {
+    "section": "345",
+    "description": "SMUSESSL4CORRIDOR-MR4-2"
+  },
+  "1020400070": {
+    "section": "346",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400071": {
+    "section": "346",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400072": {
+    "section": "346",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400073": {
+    "section": "346",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400074": {
+    "section": "346",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400075": {
+    "section": "346",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400076": {
+    "section": "347",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400077": {
+    "section": "347",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400078": {
+    "section": "347",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400079": {
+    "section": "347",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020400080": {
+    "section": "347",
+    "description": "SMUSESSL4CORRIDOR-ACAD-OFFICE"
+  },
+  "1020500001": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500002": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500003": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500004": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500005": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500006": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500007": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500008": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500009": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500010": {
+    "section": "375",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500012": {
+    "section": "375",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500013": {
+    "section": "375",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500014": {
+    "section": "375",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500015": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500016": {
+    "section": "375",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500017": {
+    "section": "375",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500018": {
+    "section": "375",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500019": {
+    "section": "374",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500020": {
+    "section": "374",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500021": {
+    "section": "374",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500022": {
+    "section": "374",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500023": {
+    "section": "374",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500024": {
+    "section": "374",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500025": {
+    "section": "374",
+    "description": "SMUSESSL5CORRIDOR-DEAN"
+  },
+  "1020500026": {
+    "section": "373",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500027": {
+    "section": "373",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500028": {
+    "section": "373",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500029": {
+    "section": "373",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500030": {
+    "section": "373",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500031": {
+    "section": "372",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500032": {
+    "section": "372",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500033": {
+    "section": "372",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500034": {
+    "section": "372",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500035": {
+    "section": "371",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500036": {
+    "section": "371",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500037": {
+    "section": "371",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500038": {
+    "section": "371",
+    "description": "SMUSESSL5CORRIDOR-ACADOFFICE"
+  },
+  "1020500039": {
+    "section": "370",
+    "description": "SMUSESSL5CORRIDOR-SR5-2"
+  },
+  "1020500040": {
+    "section": "370",
+    "description": "SMUSESSL5CORRIDOR-SR5-2"
+  },
+  "1020500041": {
+    "section": "370",
+    "description": "SMUSESSL5CORRIDOR-SR5-2"
+  },
+  "1020500042": {
+    "section": "370",
+    "description": "SMUSESSL5CORRIDOR-SR5-2"
+  },
+  "1020500043": {
+    "section": "367",
+    "description": "SMUSESSL5CORRIDOR-SR5-2"
+  },
+  "1020500044": {
+    "section": "367",
+    "description": "SMUSESSL5CORRIDOR-SR5-2"
+  },
+  "1020500045": {
+    "section": "367",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500046": {
+    "section": "367",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500047": {
+    "section": "367",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500048": {
+    "section": "366",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500049": {
+    "section": "366",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500050": {
+    "section": "362",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500051": {
+    "section": "362",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500052": {
+    "section": "365",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500053": {
+    "section": "365",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500054": {
+    "section": "365",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500055": {
+    "section": "362",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500056": {
+    "section": "362",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500059": {
+    "section": "358",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500060": {
+    "section": "361",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500061": {
+    "section": "361",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500062": {
+    "section": "361",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500063": {
+    "section": "358",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500064": {
+    "section": "358",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500065": {
+    "section": "356",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500066": {
+    "section": "358",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500067": {
+    "section": "360",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500068": {
+    "section": "360",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500069": {
+    "section": "360",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500070": {
+    "section": "358",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500071": {
+    "section": "358",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500073": {
+    "section": "356",
+    "description": "SMUSESSL5LOBBY"
+  },
+  "1020500074": {
+    "section": "362",
+    "description": "SMUSESSL5CORRIDOR-SR-CL"
+  },
+  "1020500075": {
+    "section": "364",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1020500076": {
+    "section": "364",
+    "description": "SMUSESSL5CORRIDOR-CL"
+  },
+  "1030100001": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100002": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100003": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100004": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100005": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100006": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100007": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100008": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100009": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100010": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100011": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100012": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100013": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100014": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100015": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100016": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100017": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100018": {
+    "section": "421",
+    "description": "SMULKSL1TheSMUShop"
+  },
+  "1030100019": {
+    "section": "421",
+    "description": "SMULKSL1TheSMUShop"
+  },
+  "1030100020": {
+    "section": "421",
+    "description": "SMULKSL1TheSMUShop"
+  },
+  "1030100021": {
+    "section": "421",
+    "description": "SMULKSL1TheSMUShop"
+  },
+  "1030100022": {
+    "section": "421",
+    "description": "SMULKSL1TheSMUShop"
+  },
+  "1030100023": {
+    "section": "421",
+    "description": "SMULKSL1TheSMUShop"
+  },
+  "1030100024": {
+    "section": "421",
+    "description": "SMULKSL1TheSMUShop"
+  },
+  "1030100025": {
+    "section": "421",
+    "description": "SMULKSL1TheSMUShop"
+  },
+  "1030100026": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100027": {
+    "section": "422",
+    "description": "SMULKSL1PICKnBITE"
+  },
+  "1030100028": {
+    "section": "421",
+    "description": "SMULKSL1TheSMUShop"
+  },
+  "1030110001": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110002": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110003": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110004": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110005": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110006": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110007": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110008": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110009": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110010": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110011": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110012": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110013": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110018": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110019": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110020": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110021": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110022": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110023": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110024": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110025": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110026": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110027": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110028": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110029": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110030": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110031": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110032": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110033": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110034": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110035": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110036": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110037": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110038": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110039": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110040": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110041": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110042": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110043": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110044": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110045": {
+    "section": "400",
+    "description": "SMULKSB1TJunction"
+  },
+  "1030110046": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110047": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110048": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110049": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110050": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110051": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110052": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110053": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110054": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110055": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110056": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110057": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110058": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110059": {
+    "section": "401",
+    "description": "SMULKSB1Koufu"
+  },
+  "1030110060": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110061": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110062": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110063": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110064": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110065": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110066": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110067": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110068": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110069": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030110070": {
+    "section": "402",
+    "description": "SMULKSB1ToSOA"
+  },
+  "1030200019": {
+    "section": "442",
+    "description": "SMULKSL2STUDYAREA1"
+  },
+  "1030200021": {
+    "section": "442",
+    "description": "SMULKSL2STUDYAREA1"
+  },
+  "1030200023": {
+    "section": "442",
+    "description": "SMULKSL2STUDYAREA1"
+  },
+  "1030200027": {
+    "section": "442",
+    "description": "SMULKSL2STUDYAREA1"
+  },
+  "1030200032": {
+    "section": "440",
+    "description": "SMULKSL2STUDYAREA3"
+  },
+  "1030200034": {
+    "section": "439",
+    "description": "SMULKSL2STUDYAREA4"
+  },
+  "1030200036": {
+    "section": "439",
+    "description": "SMULKSL2STUDYAREA4"
+  },
+  "1030200038": {
+    "section": "437",
+    "description": "SMULKSL2STUDYAREA5"
+  },
+  "1030200046": {
+    "section": "437",
+    "description": "SMULKSL2STUDYAREA5"
+  },
+  "1030200048": {
+    "section": "437",
+    "description": "SMULKSL2STUDYAREA5"
+  },
+  "1030200050": {
+    "section": "437",
+    "description": "SMULKSL2STUDYAREA5"
+  },
+  "1030200052": {
+    "section": "439",
+    "description": "SMULKSL2STUDYAREA4"
+  },
+  "1030200055": {
+    "section": "439",
+    "description": "SMULKSL2STUDYAREA4"
+  },
+  "1030200057": {
+    "section": "440",
+    "description": "SMULKSL2STUDYAREA3"
+  },
+  "1030200059": {
+    "section": "440",
+    "description": "SMULKSL2STUDYAREA3"
+  },
+  "1030200061": {
+    "section": "440",
+    "description": "SMULKSL2STUDYAREA3"
+  },
+  "1030200071": {
+    "section": "439",
+    "description": "SMULKSL2STUDYAREA4"
+  },
+  "1030200073": {
+    "section": "437",
+    "description": "SMULKSL2STUDYAREA5"
+  },
+  "1030200075": {
+    "section": "437",
+    "description": "SMULKSL2STUDYAREA5"
+  },
+  "1030200078": {
+    "section": "437",
+    "description": "SMULKSL2STUDYAREA5"
+  },
+  "1030200080": {
+    "section": "436",
+    "description": "SMULKSL2STUDYAREA6"
+  },
+  "1030200083": {
+    "section": "436",
+    "description": "SMULKSL2STUDYAREA6"
+  },
+  "1030200085": {
+    "section": "436",
+    "description": "SMULKSL2STUDYAREA6"
+  },
+  "1030200088": {
+    "section": "436",
+    "description": "SMULKSL2STUDYAREA6"
+  },
+  "1030200093": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200095": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200097": {
+    "section": "436",
+    "description": "SMULKSL2STUDYAREA6"
+  },
+  "1030200099": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200102": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200105": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200108": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200110": {
+    "section": "440",
+    "description": "SMULKSL2STUDYAREA3"
+  },
+  "1030200118": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200120": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200122": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200124": {
+    "section": "434",
+    "description": "SMULKSL2LIFTLOBBY"
+  },
+  "1030200126": {
+    "section": "432",
+    "description": "SMULKSL2ENTRANCE"
+  },
+  "1030200136": {
+    "section": "432",
+    "description": "SMULKSL2ENTRANCE"
+  },
+  "1030200143": {
+    "section": "432",
+    "description": "SMULKSL2ENTRANCE"
+  },
+  "1030200146": {
+    "section": "432",
+    "description": "SMULKSL2ENTRANCE"
+  },
+  "1030200148": {
+    "section": "432",
+    "description": "SMULKSL2ENTRANCE"
+  },
+  "1030200152": {
+    "section": "432",
+    "description": "SMULKSL2ENTRANCE"
+  },
+  "1030200154": {
+    "section": "432",
+    "description": "SMULKSL2ENTRANCE"
+  },
+  "1030200158": {
+    "section": "431",
+    "description": "SMULKSL2RECEPTION"
+  },
+  "1030200163": {
+    "section": "431",
+    "description": "SMULKSL2RECEPTION"
+  },
+  "1030200166": {
+    "section": "431",
+    "description": "SMULKSL2RECEPTION"
+  },
+  "1030200169": {
+    "section": "431",
+    "description": "SMULKSL2RECEPTION"
+  },
+  "1030200171": {
+    "section": "431",
+    "description": "SMULKSL2RECEPTION"
+  },
+  "1030200174": {
+    "section": "431",
+    "description": "SMULKSL2RECEPTION"
+  },
+  "1030200178": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200180": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200183": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200186": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200189": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200192": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200194": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200197": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200199": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200201": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200203": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200205": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200213": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200215": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030200217": {
+    "section": "426",
+    "description": "SMULKSL2STUDYAREA7"
+  },
+  "1030300004": {
+    "section": "462",
+    "description": "SMULKSL3STUDYAREA1"
+  },
+  "1030300008": {
+    "section": "464",
+    "description": "SMULKSL3STUDYAREA2"
+  },
+  "1030300013": {
+    "section": "464",
+    "description": "SMULKSL3STUDYAREA2"
+  },
+  "1030300015": {
+    "section": "464",
+    "description": "SMULKSL3STUDYAREA2"
+  },
+  "1030300018": {
+    "section": "462",
+    "description": "SMULKSL3STUDYAREA1"
+  },
+  "1030300021": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300024": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300027": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300030": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300033": {
+    "section": "462",
+    "description": "SMULKSL3STUDYAREA1"
+  },
+  "1030300036": {
+    "section": "462",
+    "description": "SMULKSL3STUDYAREA1"
+  },
+  "1030300039": {
+    "section": "464",
+    "description": "SMULKSL3STUDYAREA2"
+  },
+  "1030300041": {
+    "section": "464",
+    "description": "SMULKSL3STUDYAREA2"
+  },
+  "1030300047": {
+    "section": "464",
+    "description": "SMULKSL3STUDYAREA2"
+  },
+  "1030300050": {
+    "section": "462",
+    "description": "SMULKSL3STUDYAREA1"
+  },
+  "1030300053": {
+    "section": "462",
+    "description": "SMULKSL3STUDYAREA1"
+  },
+  "1030300056": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300058": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300062": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300065": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300071": {
+    "section": "462",
+    "description": "SMULKSL3STUDYAREA1"
+  },
+  "1030300073": {
+    "section": "464",
+    "description": "SMULKSL3STUDYAREA2"
+  },
+  "1030300077": {
+    "section": "464",
+    "description": "SMULKSL3STUDYAREA2"
+  },
+  "1030300079": {
+    "section": "464",
+    "description": "SMULKSL3STUDYAREA2"
+  },
+  "1030300085": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300087": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300089": {
+    "section": "460",
+    "description": "SMULKSL3STUDYAREA3"
+  },
+  "1030300094": {
+    "section": "457",
+    "description": "SMULKSL3STUDYAREA4"
+  },
+  "1030300096": {
+    "section": "457",
+    "description": "SMULKSL3STUDYAREA4"
+  },
+  "1030300100": {
+    "section": "457",
+    "description": "SMULKSL3STUDYAREA4"
+  },
+  "1030300103": {
+    "section": "457",
+    "description": "SMULKSL3STUDYAREA4"
+  },
+  "1030300105": {
+    "section": "457",
+    "description": "SMULKSL3STUDYAREA4"
+  },
+  "1030300107": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300109": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300113": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300117": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300120": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300122": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300125": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300127": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300130": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300132": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300135": {
+    "section": "451",
+    "description": "SMULKSL3STUDYAREA6"
+  },
+  "1030300138": {
+    "section": "451",
+    "description": "SMULKSL3STUDYAREA6"
+  },
+  "1030300142": {
+    "section": "451",
+    "description": "SMULKSL3STUDYAREA6"
+  },
+  "1030300144": {
+    "section": "451",
+    "description": "SMULKSL3STUDYAREA6"
+  },
+  "1030300146": {
+    "section": "451",
+    "description": "SMULKSL3STUDYAREA6"
+  },
+  "1030300151": {
+    "section": "451",
+    "description": "SMULKSL3STUDYAREA6"
+  },
+  "1030300154": {
+    "section": "451",
+    "description": "SMULKSL3STUDYAREA6"
+  },
+  "1030300157": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300159": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300163": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300166": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300167": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300172": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300175": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300178": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300182": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300184": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300186": {
+    "section": "453",
+    "description": "SMULKSL3STUDYAREA5"
+  },
+  "1030300190": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300192": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030300198": {
+    "section": "455",
+    "description": "SMULKSL3LIFTLOBBY"
+  },
+  "1030400013": {
+    "section": "502",
+    "description": "SMULKSL4STUDYAREA1"
+  },
+  "1030400016": {
+    "section": "500",
+    "description": "SMULKSL4STUDYAREA2"
+  },
+  "1030400019": {
+    "section": "500",
+    "description": "SMULKSL4STUDYAREA2"
+  },
+  "1030400022": {
+    "section": "498",
+    "description": "SMULKSL4STUDYAREA3"
+  },
+  "1030400032": {
+    "section": "498",
+    "description": "SMULKSL4STUDYAREA3"
+  },
+  "1030400035": {
+    "section": "500",
+    "description": "SMULKSL4STUDYAREA2"
+  },
+  "1030400039": {
+    "section": "502",
+    "description": "SMULKSL4STUDYAREA1"
+  },
+  "1030400042": {
+    "section": "502",
+    "description": "SMULKSL4STUDYAREA1"
+  },
+  "1030400046": {
+    "section": "502",
+    "description": "SMULKSL4STUDYAREA1"
+  },
+  "1030400050": {
+    "section": "502",
+    "description": "SMULKSL4STUDYAREA1"
+  },
+  "1030400052": {
+    "section": "500",
+    "description": "SMULKSL4STUDYAREA2"
+  },
+  "1030400055": {
+    "section": "500",
+    "description": "SMULKSL4STUDYAREA2"
+  },
+  "1030400058": {
+    "section": "498",
+    "description": "SMULKSL4STUDYAREA3"
+  },
+  "1030400061": {
+    "section": "498",
+    "description": "SMULKSL4STUDYAREA3"
+  },
+  "1030400067": {
+    "section": "498",
+    "description": "SMULKSL4STUDYAREA3"
+  },
+  "1030400071": {
+    "section": "500",
+    "description": "SMULKSL4STUDYAREA2"
+  },
+  "1030400074": {
+    "section": "500",
+    "description": "SMULKSL4STUDYAREA2"
+  },
+  "1030400077": {
+    "section": "502",
+    "description": "SMULKSL4STUDYAREA1"
+  },
+  "1030400079": {
+    "section": "502",
+    "description": "SMULKSL4STUDYAREA1"
+  },
+  "1030400083": {
+    "section": "502",
+    "description": "SMULKSL4STUDYAREA1"
+  },
+  "1030400085": {
+    "section": "502",
+    "description": "SMULKSL4STUDYAREA1"
+  },
+  "1030400087": {
+    "section": "500",
+    "description": "SMULKSL4STUDYAREA2"
+  },
+  "1030400089": {
+    "section": "500",
+    "description": "SMULKSL4STUDYAREA2"
+  },
+  "1030400092": {
+    "section": "496",
+    "description": "SMULKSL4STUDYAREA4"
+  },
+  "1030400095": {
+    "section": "496",
+    "description": "SMULKSL4STUDYAREA4"
+  },
+  "1030400097": {
+    "section": "496",
+    "description": "SMULKSL4STUDYAREA4"
+  },
+  "1030400100": {
+    "section": "496",
+    "description": "SMULKSL4STUDYAREA4"
+  },
+  "1030400101": {
+    "section": "496",
+    "description": "SMULKSL4STUDYAREA4"
+  },
+  "1030400106": {
+    "section": "496",
+    "description": "SMULKSL4STUDYAREA4"
+  },
+  "1030400109": {
+    "section": "496",
+    "description": "SMULKSL4STUDYAREA4"
+  },
+  "1030400118": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400120": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400125": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400127": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400129": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400131": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400135": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400140": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400144": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400146": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400151": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400155": {
+    "section": "487",
+    "description": "SMULKSL4STUDYAREA5"
+  },
+  "1030400159": {
+    "section": "487",
+    "description": "SMULKSL4STUDYAREA5"
+  },
+  "1030400164": {
+    "section": "487",
+    "description": "SMULKSL4STUDYAREA5"
+  },
+  "1030400167": {
+    "section": "487",
+    "description": "SMULKSL4STUDYAREA5"
+  },
+  "1030400170": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400173": {
+    "section": "483",
+    "description": "SMULKSL4STUDYAREA7"
+  },
+  "1030400176": {
+    "section": "483",
+    "description": "SMULKSL4STUDYAREA7"
+  },
+  "1030400181": {
+    "section": "483",
+    "description": "SMULKSL4STUDYAREA7"
+  },
+  "1030400184": {
+    "section": "483",
+    "description": "SMULKSL4STUDYAREA7"
+  },
+  "1030400186": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400189": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400191": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400195": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400198": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400202": {
+    "section": "472",
+    "description": "SMULKSL4STUDYAREA8"
+  },
+  "1030400205": {
+    "section": "472",
+    "description": "SMULKSL4STUDYAREA8"
+  },
+  "1030400206": {
+    "section": "472",
+    "description": "SMULKSL4STUDYAREA8"
+  },
+  "1030400211": {
+    "section": "472",
+    "description": "SMULKSL4STUDYAREA8"
+  },
+  "1030400213": {
+    "section": "471",
+    "description": "SMULKSL4STUDYAREA9"
+  },
+  "1030400218": {
+    "section": "471",
+    "description": "SMULKSL4STUDYAREA9"
+  },
+  "1030400222": {
+    "section": "471",
+    "description": "SMULKSL4STUDYAREA9"
+  },
+  "1030400224": {
+    "section": "471",
+    "description": "SMULKSL4STUDYAREA9"
+  },
+  "1030400228": {
+    "section": "471",
+    "description": "SMULKSL4STUDYAREA9"
+  },
+  "1030400230": {
+    "section": "471",
+    "description": "SMULKSL4STUDYAREA9"
+  },
+  "1030400236": {
+    "section": "487",
+    "description": "SMULKSL4STUDYAREA5"
+  },
+  "1030400238": {
+    "section": "487",
+    "description": "SMULKSL4STUDYAREA5"
+  },
+  "1030400243": {
+    "section": "487",
+    "description": "SMULKSL4STUDYAREA5"
+  },
+  "1030400245": {
+    "section": "487",
+    "description": "SMULKSL4STUDYAREA5"
+  },
+  "1030400247": {
+    "section": "487",
+    "description": "SMULKSL4STUDYAREA5"
+  },
+  "1030400249": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400251": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400254": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400257": {
+    "section": "477",
+    "description": "SMULKSL4STUDYAREA6"
+  },
+  "1030400258": {
+    "section": "472",
+    "description": "SMULKSL4STUDYAREA8"
+  },
+  "1030400259": {
+    "section": "472",
+    "description": "SMULKSL4STUDYAREA8"
+  },
+  "1030400260": {
+    "section": "472",
+    "description": "SMULKSL4STUDYAREA8"
+  },
+  "1030400261": {
+    "section": "472",
+    "description": "SMULKSL4STUDYAREA8"
+  },
+  "1030400263": {
+    "section": "483",
+    "description": "SMULKSL4STUDYAREA7"
+  },
+  "1030400267": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400269": {
+    "section": "483",
+    "description": "SMULKSL4STUDYAREA7"
+  },
+  "1030400271": {
+    "section": "493",
+    "description": "SMULKSL4LIFTLOBBY"
+  },
+  "1030400272": {
+    "section": "496",
+    "description": "SMULKSL4STUDYAREA4"
+  },
+  "1030400273": {
+    "section": "496",
+    "description": "SMULKSL4STUDYAREA4"
+  },
+  "1030500001": {
+    "section": "510",
+    "description": "SMULKSL5LOBBY"
+  },
+  "1030500002": {
+    "section": "510",
+    "description": "SMULKSL5LOBBY"
+  },
+  "1030500003": {
+    "section": "510",
+    "description": "SMULKSL5LOBBY"
+  },
+  "1030500004": {
+    "section": "510",
+    "description": "SMULKSL5LOBBY"
+  },
+  "1030500005": {
+    "section": "510",
+    "description": "SMULKSL5LOBBY"
+  },
+  "1030500006": {
+    "section": "512",
+    "description": "SMULKSL5PGLOUNCH"
+  },
+  "1030500007": {
+    "section": "512",
+    "description": "SMULKSL5PGLOUNCH"
+  },
+  "1030500008": {
+    "section": "512",
+    "description": "SMULKSL5PGLOUNCH"
+  },
+  "1030500009": {
+    "section": "512",
+    "description": "SMULKSL5PGLOUNCH"
+  },
+  "1030500010": {
+    "section": "512",
+    "description": "SMULKSL5PGLOUNCH"
+  },
+  "1030500011": {
+    "section": "510",
+    "description": "SMULKSL5LOBBY"
+  },
+  "1030500012": {
+    "section": "510",
+    "description": "SMULKSL5LOBBY"
+  },
+  "1030500013": {
+    "section": "510",
+    "description": "SMULKSL5LOBBY"
+  },
+  "1030500014": {
+    "section": "510",
+    "description": "SMULKSL5LOBBY"
+  },
+  "1030500015": {
+    "section": "516",
+    "description": "SMULKSL5STUDYAREA1"
+  },
+  "1030500016": {
+    "section": "516",
+    "description": "SMULKSL5STUDYAREA1"
+  },
+  "1030500017": {
+    "section": "516",
+    "description": "SMULKSL5STUDYAREA1"
+  },
+  "1030500018": {
+    "section": "516",
+    "description": "SMULKSL5STUDYAREA1"
+  },
+  "1030500019": {
+    "section": "516",
+    "description": "SMULKSL5STUDYAREA1"
+  },
+  "1030500020": {
+    "section": "516",
+    "description": "SMULKSL5STUDYAREA1"
+  },
+  "1030500021": {
+    "section": "516",
+    "description": "SMULKSL5STUDYAREA1"
+  },
+  "1030500022": {
+    "section": "521",
+    "description": "SMULKSL5STUDYAREA2"
+  },
+  "1030500023": {
+    "section": "521",
+    "description": "SMULKSL5STUDYAREA2"
+  },
+  "1030500024": {
+    "section": "521",
+    "description": "SMULKSL5STUDYAREA2"
+  },
+  "1030500025": {
+    "section": "521",
+    "description": "SMULKSL5STUDYAREA2"
+  },
+  "1030500026": {
+    "section": "521",
+    "description": "SMULKSL5STUDYAREA2"
+  },
+  "1030500027": {
+    "section": "523",
+    "description": "SMULKSL5STUDYAREA3"
+  },
+  "1030500028": {
+    "section": "523",
+    "description": "SMULKSL5STUDYAREA3"
+  },
+  "1030500029": {
+    "section": "523",
+    "description": "SMULKSL5STUDYAREA3"
+  },
+  "1030500030": {
+    "section": "523",
+    "description": "SMULKSL5STUDYAREA3"
+  },
+  "1030500031": {
+    "section": "523",
+    "description": "SMULKSL5STUDYAREA3"
+  },
+  "1030500032": {
+    "section": "523",
+    "description": "SMULKSL5STUDYAREA3"
+  },
+  "1030500033": {
+    "section": "523",
+    "description": "SMULKSL5STUDYAREA3"
+  },
+  "1030500034": {
+    "section": "523",
+    "description": "SMULKSL5STUDYAREA3"
+  },
+  "1030500035": {
+    "section": "521",
+    "description": "SMULKSL5STUDYAREA2"
+  },
+  "1030500036": {
+    "section": "521",
+    "description": "SMULKSL5STUDYAREA2"
+  },
+  "1030500037": {
+    "section": "521",
+    "description": "SMULKSL5STUDYAREA2"
+  },
+  "1030500038": {
+    "section": "515",
+    "description": "SMULKSL5CLASSROOM"
+  },
+  "1030500039": {
+    "section": "515",
+    "description": "SMULKSL5CLASSROOM"
+  },
+  "1030500040": {
+    "section": "515",
+    "description": "SMULKSL5CLASSROOM"
+  },
+  "1040100001": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100002": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100003": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100004": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100005": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100006": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100007": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100008": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100009": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100010": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100011": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100012": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100013": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100014": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100015": {
+    "section": "621",
+    "description": "SMUSOAL1RECEPTION"
+  },
+  "1040100016": {
+    "section": "626",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100017": {
+    "section": "626",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100018": {
+    "section": "626",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100019": {
+    "section": "626",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100020": {
+    "section": "626",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100021": {
+    "section": "626",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100022": {
+    "section": "626",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100023": {
+    "section": "626",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100024": {
+    "section": "626",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100025": {
+    "section": "630",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100026": {
+    "section": "630",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100027": {
+    "section": "630",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100028": {
+    "section": "629",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100029": {
+    "section": "629",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100030": {
+    "section": "629",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100031": {
+    "section": "628",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100032": {
+    "section": "628",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100033": {
+    "section": "628",
+    "description": "SMUSOAL1_NEAR_SRS"
+  },
+  "1040100034": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040100035": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040100036": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040100037": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040100038": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040100039": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040100040": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040100041": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040100042": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040100043": {
+    "section": "624",
+    "description": "SMUSOAL1NEARSWISBAKE"
+  },
+  "1040110001": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110002": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110003": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110004": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110005": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110006": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110007": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110008": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110009": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110010": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110011": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110012": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110013": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110014": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110015": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110016": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110017": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110018": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110019": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110020": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110021": {
+    "section": "606",
+    "description": "SMUSOAB1_TO_KOUFU"
+  },
+  "1040110022": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110023": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110024": {
+    "section": "604",
+    "description": "SMUSOAB1LIFTLOBBY"
+  },
+  "1040110025": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110026": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110027": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110028": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110029": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110030": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110031": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110032": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110033": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110034": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110035": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110036": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110037": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110038": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110039": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040110040": {
+    "section": "601",
+    "description": "SMUSOAB1_TO_SOB"
+  },
+  "1040200001": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200002": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200003": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200004": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200005": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200006": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200007": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200008": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200009": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200010": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200011": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200012": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200013": {
+    "section": "641",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200014": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200015": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200016": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200017": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200018": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200019": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200020": {
+    "section": "656",
+    "description": "SMUSOAL2_NEAR_SR_2_3"
+  },
+  "1040200021": {
+    "section": "656",
+    "description": "SMUSOAL2_NEAR_SR_2_3"
+  },
+  "1040200022": {
+    "section": "656",
+    "description": "SMUSOAL2_NEAR_SR_2_3"
+  },
+  "1040200023": {
+    "section": "656",
+    "description": "SMUSOAL2_NEAR_SR_2_3"
+  },
+  "1040200024": {
+    "section": "656",
+    "description": "SMUSOAL2_NEAR_SR_2_3"
+  },
+  "1040200025": {
+    "section": "643",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200026": {
+    "section": "643",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200027": {
+    "section": "643",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200028": {
+    "section": "643",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200029": {
+    "section": "643",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200030": {
+    "section": "643",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200031": {
+    "section": "643",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200032": {
+    "section": "643",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200033": {
+    "section": "645",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200034": {
+    "section": "645",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200035": {
+    "section": "645",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200036": {
+    "section": "644",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200037": {
+    "section": "644",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200038": {
+    "section": "644",
+    "description": "SMUSOAL2_NEAR_SR_2_1"
+  },
+  "1040200039": {
+    "section": "646",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200040": {
+    "section": "646",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200041": {
+    "section": "646",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200042": {
+    "section": "646",
+    "description": "SMUSOAL2LIFTLOBBY"
+  },
+  "1040200043": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200044": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200045": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200046": {
+    "section": "650",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200047": {
+    "section": "654",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200048": {
+    "section": "654",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200049": {
+    "section": "654",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200050": {
+    "section": "655",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200051": {
+    "section": "655",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200052": {
+    "section": "655",
+    "description": "SMUSOAL2_NEAR_SR_2_4"
+  },
+  "1040200053": {
+    "section": "657",
+    "description": "SMUSOAL2_NEAR_SR_2_3"
+  },
+  "1040200054": {
+    "section": "657",
+    "description": "SMUSOAL2_NEAR_SR_2_3"
+  },
+  "1040200055": {
+    "section": "657",
+    "description": "SMUSOAL2_NEAR_SR_2_3"
+  },
+  "1040200056": {
+    "section": "658",
+    "description": "SMUSOAL2_OUTSIDE_NAKA"
+  },
+  "1040200057": {
+    "section": "658",
+    "description": "SMUSOAL2_OUTSIDE_NAKA"
+  },
+  "1040300001": {
+    "section": "692",
+    "description": "SMUSOAL3_NAKA"
+  },
+  "1040300002": {
+    "section": "692",
+    "description": "SMUSOAL3_NAKA"
+  },
+  "1040300003": {
+    "section": "692",
+    "description": "SMUSOAL3_NAKA"
+  },
+  "1040300004": {
+    "section": "692",
+    "description": "SMUSOAL3_NAKA"
+  },
+  "1040300006": {
+    "section": "690",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300007": {
+    "section": "690",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300008": {
+    "section": "690",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300009": {
+    "section": "689",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300010": {
+    "section": "689",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300011": {
+    "section": "689",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300012": {
+    "section": "688",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300013": {
+    "section": "688",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300014": {
+    "section": "688",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300015": {
+    "section": "688",
+    "description": "SMUSOAL3_NEAR_SR_3_1"
+  },
+  "1040300016": {
+    "section": "672",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300017": {
+    "section": "672",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300018": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300019": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300020": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300021": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300022": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300023": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300024": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300025": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300026": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300027": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300028": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300029": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300030": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300031": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300032": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300033": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300034": {
+    "section": "671",
+    "description": "SMUSOAL3LIFTLOBBY"
+  },
+  "1040300035": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_3"
+  },
+  "1040300036": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_3"
+  },
+  "1040300037": {
+    "section": "680",
+    "description": "SMUSOAL3_NEAR_SR_3_3"
+  },
+  "1040300038": {
+    "section": "680",
+    "description": "SMUSOAL3_NEAR_SR_3_3"
+  },
+  "1040300039": {
+    "section": "680",
+    "description": "SMUSOAL3_NEAR_SR_3_3"
+  },
+  "1040300040": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_3"
+  },
+  "1040300041": {
+    "section": "681",
+    "description": "SMUSOAL3_NEAR_SR_3_3"
+  },
+  "1040300042": {
+    "section": "681",
+    "description": "SMUSOAL3_NEAR_SR_3_3"
+  },
+  "1040300043": {
+    "section": "681",
+    "description": "SMUSOAL3_NEAR_SR_3_3"
+  },
+  "1040300044": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300045": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300046": {
+    "section": "683",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300047": {
+    "section": "683",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300048": {
+    "section": "683",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300049": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300050": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300051": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300052": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300053": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300054": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300055": {
+    "section": "679",
+    "description": "SMUSOAL3_NEAR_SR_3_5"
+  },
+  "1040300056": {
+    "section": "688",
+    "description": "SMUSOAL3_NAKA"
+  },
+  "1040300057": {
+    "section": "688",
+    "description": "SMUSOAL3_NAKA"
+  },
+  "1040400001": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400002": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400003": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400004": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400005": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400006": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400007": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400008": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400009": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400010": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400011": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400012": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400013": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400014": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400015": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400016": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400017": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400018": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400019": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400020": {
+    "section": "714",
+    "description": "SMUSOAL4ACADOFFICE"
+  },
+  "1040400021": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400022": {
+    "section": "711",
+    "description": "SMUSOAL4LIFTLOBBY"
+  },
+  "1040400023": {
+    "section": "717",
+    "description": "SMUSOAL4NEARGENERALOFFICE"
+  },
+  "1040400024": {
+    "section": "717",
+    "description": "SMUSOAL4NEARGENERALOFFICE"
+  },
+  "1040400025": {
+    "section": "717",
+    "description": "SMUSOAL4NEARGENERALOFFICE"
+  },
+  "1040400026": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400027": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400028": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400029": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400030": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400031": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400032": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400033": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400034": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400035": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400036": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400037": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400038": {
+    "section": "719",
+    "description": "SMUSOAL4ACADOFFICE_2"
+  },
+  "1040400039": {
+    "section": "717",
+    "description": "SMUSOAL4NEARGENERALOFFICE"
+  },
+  "1040400040": {
+    "section": "717",
+    "description": "SMUSOAL4NEARGENERALOFFICE"
+  },
+  "1040400041": {
+    "section": "717",
+    "description": "SMUSOAL4NEARGENERALOFFICE"
+  },
+  "1040500001": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500002": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500003": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500004": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500005": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500006": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500007": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500008": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500009": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500010": {
+    "section": "737",
+    "description": "SMUSOAL5NEARDEANSOFFICE"
+  },
+  "1040500011": {
+    "section": "737",
+    "description": "SMUSOAL5NEARDEANSOFFICE"
+  },
+  "1040500012": {
+    "section": "737",
+    "description": "SMUSOAL5NEARDEANSOFFICE"
+  },
+  "1040500013": {
+    "section": "737",
+    "description": "SMUSOAL5NEARDEANSOFFICE"
+  },
+  "1040500014": {
+    "section": "737",
+    "description": "SMUSOAL5NEARDEANSOFFICE"
+  },
+  "1040500015": {
+    "section": "737",
+    "description": "SMUSOAL5NEARDEANSOFFICE"
+  },
+  "1040500016": {
+    "section": "737",
+    "description": "SMUSOAL5NEARDEANSOFFICE"
+  },
+  "1040500017": {
+    "section": "739",
+    "description": "SMUSOAL5DEANSOFFICE"
+  },
+  "1040500018": {
+    "section": "739",
+    "description": "SMUSOAL5DEANSOFFICE"
+  },
+  "1040500019": {
+    "section": "739",
+    "description": "SMUSOAL5DEANSOFFICE"
+  },
+  "1040500020": {
+    "section": "739",
+    "description": "SMUSOAL5DEANSOFFICE"
+  },
+  "1040500021": {
+    "section": "739",
+    "description": "SMUSOAL5DEANSOFFICE"
+  },
+  "1040500022": {
+    "section": "739",
+    "description": "SMUSOAL5DEANSOFFICE"
+  },
+  "1040500023": {
+    "section": "739",
+    "description": "SMUSOAL5DEANSOFFICE"
+  },
+  "1040500024": {
+    "section": "731",
+    "description": "SMUSOAL5LIFTLOBBY"
+  },
+  "1040500025": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500026": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500027": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500028": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500029": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500030": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500031": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500032": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500033": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500034": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500035": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500036": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1040500037": {
+    "section": "734",
+    "description": "SMUSOAL5ACADOFFICE"
+  },
+  "1050100001": {
+    "section": "805",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100002": {
+    "section": "805",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100003": {
+    "section": "805",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100004": {
+    "section": "805",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100005": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100006": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100007": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100008": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100009": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100010": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100011": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100012": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100013": {
+    "section": "810",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100014": {
+    "section": "810",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100015": {
+    "section": "810",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100016": {
+    "section": "810",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100017": {
+    "section": "810",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100018": {
+    "section": "810",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100019": {
+    "section": "810",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100020": {
+    "section": "811",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100021": {
+    "section": "811",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100022": {
+    "section": "811",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100023": {
+    "section": "812",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100024": {
+    "section": "812",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100025": {
+    "section": "812",
+    "description": "SMUSOBL1_SR_AREA"
+  },
+  "1050100026": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100027": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100028": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100029": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100030": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100031": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100032": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100033": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100034": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100035": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100036": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100037": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100038": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100039": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100040": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100041": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100042": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100043": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100044": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100045": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100046": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100047": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100048": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100049": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100050": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100051": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100052": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100053": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100054": {
+    "section": "801",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100055": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100056": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100057": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100058": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100059": {
+    "section": "805",
+    "description": "SMUSOBL1GROUND"
+  },
+  "1050100060": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050100061": {
+    "section": "805",
+    "description": "SMUSOBL1_LOBBY"
+  },
+  "1050200001": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200002": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200003": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200004": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200005": {
+    "section": "870",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200006": {
+    "section": "870",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200007": {
+    "section": "870",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200008": {
+    "section": "871",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200009": {
+    "section": "871",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200010": {
+    "section": "871",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200011": {
+    "section": "870",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200012": {
+    "section": "870",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200013": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200014": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200015": {
+    "section": "869",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200016": {
+    "section": "869",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200017": {
+    "section": "869",
+    "description": "SMUSOBL2_SR_1_2"
+  },
+  "1050200018": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200019": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200020": {
+    "section": "859",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200021": {
+    "section": "859",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200022": {
+    "section": "859",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200023": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200024": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200025": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200026": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200027": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200028": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200029": {
+    "section": "857",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200030": {
+    "section": "857",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200031": {
+    "section": "860",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200032": {
+    "section": "858",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200033": {
+    "section": "858",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200034": {
+    "section": "858",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200035": {
+    "section": "857",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200036": {
+    "section": "857",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200037": {
+    "section": "857",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200038": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200039": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200040": {
+    "section": "857",
+    "description": "SMUSOBL2_SR_2_4"
+  },
+  "1050200041": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200042": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200043": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200044": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200045": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200046": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200047": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200048": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200049": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200050": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200051": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200052": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200053": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200054": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200055": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200056": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200057": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200058": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200059": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200060": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200061": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200062": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200063": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200064": {
+    "section": "831",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200065": {
+    "section": "831",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200066": {
+    "section": "831",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200067": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200068": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200069": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200070": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200071": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200072": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200073": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200074": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200075": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200076": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200077": {
+    "section": "832",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200078": {
+    "section": "832",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200079": {
+    "section": "832",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200080": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200081": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200082": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200083": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200084": {
+    "section": "833",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200085": {
+    "section": "833",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200086": {
+    "section": "833",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200087": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200088": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200089": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200090": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200091": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200092": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200093": {
+    "section": "825",
+    "description": "SMUSOBL2_GSR_5_10"
+  },
+  "1050200094": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200095": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200096": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200097": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200098": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200099": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200100": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200101": {
+    "section": "844",
+    "description": "SMUSOBL2_GSR_12_24"
+  },
+  "1050200102": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200103": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200104": {
+    "section": "854",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200105": {
+    "section": "854",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200106": {
+    "section": "854",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200107": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200108": {
+    "section": "854",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200109": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200110": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200111": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200112": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200113": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200114": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200115": {
+    "section": "840",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200116": {
+    "section": "841",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200117": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200118": {
+    "section": "830",
+    "description": "SMUSOBL2_SR_6_8"
+  },
+  "1050200119": {
+    "section": "841",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200120": {
+    "section": "841",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200121": {
+    "section": "841",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200122": {
+    "section": "841",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200123": {
+    "section": "841",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200124": {
+    "section": "842",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200125": {
+    "section": "842",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200126": {
+    "section": "842",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200127": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200128": {
+    "section": "821",
+    "description": "SMUSOBL2_LIFT_LOBBY"
+  },
+  "1050200129": {
+    "section": "841",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200130": {
+    "section": "841",
+    "description": "SMUSOBL2_SR_5"
+  },
+  "1050200131": {
+    "section": "854",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200132": {
+    "section": "854",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050200133": {
+    "section": "854",
+    "description": "SMUSOBL2_CLR_1"
+  },
+  "1050300001": {
+    "section": "944",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300002": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300003": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300004": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300005": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300006": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300007": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300008": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300009": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300010": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300011": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300012": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300013": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300014": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300015": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300016": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300017": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300018": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300019": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300020": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300021": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300022": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300023": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300024": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300025": {
+    "section": "911",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300026": {
+    "section": "911",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300027": {
+    "section": "911",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300028": {
+    "section": "911",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300029": {
+    "section": "911",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300030": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300031": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300032": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300033": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300034": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300035": {
+    "section": "918",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300036": {
+    "section": "918",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300037": {
+    "section": "918",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300038": {
+    "section": "918",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300039": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300040": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300041": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300042": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300043": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300044": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300045": {
+    "section": "944",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300046": {
+    "section": "944",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300047": {
+    "section": "944",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300048": {
+    "section": "944",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300049": {
+    "section": "938",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300050": {
+    "section": "938",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300051": {
+    "section": "938",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300052": {
+    "section": "938",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300053": {
+    "section": "935",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300054": {
+    "section": "935",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300055": {
+    "section": "935",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300056": {
+    "section": "935",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300057": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300058": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300059": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300060": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300061": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300062": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300063": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300064": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300065": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300066": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300067": {
+    "section": "904",
+    "description": "SMUSOBL3_SR_6_7"
+  },
+  "1050300068": {
+    "section": "904",
+    "description": "SMUSOBL3_SR_6_7"
+  },
+  "1050300069": {
+    "section": "904",
+    "description": "SMUSOBL3_SR_5"
+  },
+  "1050300070": {
+    "section": "904",
+    "description": "SMUSOBL3_SR_5"
+  },
+  "1050300071": {
+    "section": "904",
+    "description": "SMUSOBL3_SR_5"
+  },
+  "1050300072": {
+    "section": "904",
+    "description": "SMUSOBL3_SR_5"
+  },
+  "1050300073": {
+    "section": "898",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300074": {
+    "section": "898",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300075": {
+    "section": "898",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300076": {
+    "section": "899",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300077": {
+    "section": "899",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300078": {
+    "section": "899",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300079": {
+    "section": "900",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300080": {
+    "section": "900",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300081": {
+    "section": "900",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300082": {
+    "section": "902",
+    "description": "SMUSOBL3_SR_6_7"
+  },
+  "1050300083": {
+    "section": "902",
+    "description": "SMUSOBL3_SR_6_7"
+  },
+  "1050300084": {
+    "section": "902",
+    "description": "SMUSOBL3_SR_6_7"
+  },
+  "1050300085": {
+    "section": "903",
+    "description": "SMUSOBL3_SR_6_7"
+  },
+  "1050300086": {
+    "section": "903",
+    "description": "SMUSOBL3_SR_6_7"
+  },
+  "1050300087": {
+    "section": "903",
+    "description": "SMUSOBL3_SR_6_7"
+  },
+  "1050300088": {
+    "section": "906",
+    "description": "SMUSOBL3_SR_5"
+  },
+  "1050300089": {
+    "section": "906",
+    "description": "SMUSOBL3_SR_5"
+  },
+  "1050300090": {
+    "section": "906",
+    "description": "SMUSOBL3_SR_5"
+  },
+  "1050300091": {
+    "section": "945",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300092": {
+    "section": "945",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300093": {
+    "section": "945",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300094": {
+    "section": "943",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300095": {
+    "section": "943",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300096": {
+    "section": "943",
+    "description": "SMUSOBL3_SR_1_2"
+  },
+  "1050300097": {
+    "section": "939",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300098": {
+    "section": "939",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300099": {
+    "section": "937",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300100": {
+    "section": "937",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300101": {
+    "section": "937",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300102": {
+    "section": "936",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300103": {
+    "section": "936",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300104": {
+    "section": "936",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300105": {
+    "section": "918",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300106": {
+    "section": "918",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300107": {
+    "section": "938",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300108": {
+    "section": "938",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300109": {
+    "section": "938",
+    "description": "SMUSOBL3_SR_3_4"
+  },
+  "1050300110": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300111": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300112": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300113": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300114": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300115": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300116": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300117": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300118": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300119": {
+    "section": "926",
+    "description": "SMUSOBL3_GSR_22_34"
+  },
+  "1050300120": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300121": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300122": {
+    "section": "918",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300123": {
+    "section": "912",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300124": {
+    "section": "913",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300125": {
+    "section": "913",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300126": {
+    "section": "913",
+    "description": "SMUSOBL3_GSR_8_29"
+  },
+  "1050300127": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300128": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300129": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300130": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300131": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300132": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300133": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300134": {
+    "section": "897",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300135": {
+    "section": "887",
+    "description": "SMUSOBL3_GSR_15_20"
+  },
+  "1050300136": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300137": {
+    "section": "897",
+    "description": "SMUSOBL3_SR_8_10"
+  },
+  "1050300138": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300139": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300140": {
+    "section": "881",
+    "description": "SMUSOBL3_LIFT_LOBBY"
+  },
+  "1050300141": {
+    "section": "910",
+    "description": "SMUSOBL3_CL_3-2"
+  },
+  "1050300142": {
+    "section": "910",
+    "description": "SMUSOBL3_CL_3-2"
+  },
+  "1050300143": {
+    "section": "910",
+    "description": "SMUSOBL3_CL_3-2"
+  },
+  "1050300144": {
+    "section": "910",
+    "description": "SMUSOBL3_CL_3-2"
+  },
+  "1050300145": {
+    "section": "909",
+    "description": "SMUSOBL3_CL_3-3"
+  },
+  "1050300146": {
+    "section": "909",
+    "description": "SMUSOBL3_CL_3-3"
+  },
+  "1050300147": {
+    "section": "909",
+    "description": "SMUSOBL3_CL_3-3"
+  },
+  "1050300148": {
+    "section": "909",
+    "description": "SMUSOBL3_CL_3-3"
+  },
+  "1050300149": {
+    "section": "908",
+    "description": "SMUSOBL3_CL_3-4"
+  },
+  "1050300150": {
+    "section": "908",
+    "description": "SMUSOBL3_CL_3-4"
+  },
+  "1050300151": {
+    "section": "908",
+    "description": "SMUSOBL3_CL_3-4"
+  },
+  "1050300152": {
+    "section": "908",
+    "description": "SMUSOBL3_CL_3-4"
+  },
+  "1050300153": {
+    "section": "907",
+    "description": "SMUSOBL3_CL_3-5"
+  },
+  "1050300154": {
+    "section": "907",
+    "description": "SMUSOBL3_CL_3-5"
+  },
+  "1050300155": {
+    "section": "907",
+    "description": "SMUSOBL3_CL_3-5"
+  },
+  "1050300156": {
+    "section": "907",
+    "description": "SMUSOBL3_CL_3-5"
+  },
+  "1050400001": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400002": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400003": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400004": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400005": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400006": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400007": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400008": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400009": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400010": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400011": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400012": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400013": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400014": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400015": {
+    "section": "973",
+    "description": "SMUSOBL4_OFFICE_5_6"
+  },
+  "1050400016": {
+    "section": "973",
+    "description": "SMUSOBL4_OFFICE_5_6"
+  },
+  "1050400017": {
+    "section": "973",
+    "description": "SMUSOBL4_OFFICE_5_6"
+  },
+  "1050400018": {
+    "section": "973",
+    "description": "SMUSOBL4_OFFICE_5_6"
+  },
+  "1050400019": {
+    "section": "973",
+    "description": "SMUSOBL4_OFFICE_5_6"
+  },
+  "1050400021": {
+    "section": "973",
+    "description": "SMUSOBL4_OFFICE_5_6"
+  },
+  "1050400022": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400023": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400024": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400025": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400026": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400027": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400028": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400029": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400030": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400031": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400032": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400033": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400034": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400035": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400036": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400037": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400038": {
+    "section": "969",
+    "description": "SMUSOBL4_OFFICE_3_4"
+  },
+  "1050400039": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400040": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400041": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400042": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400043": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400044": {
+    "section": "973",
+    "description": "SMUSOBL4_OFFICE_5_6"
+  },
+  "1050400046": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400047": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400048": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400049": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400050": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400051": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400052": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400053": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400054": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400055": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400056": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400057": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400058": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400059": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400060": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400061": {
+    "section": "965",
+    "description": "SMUSOBL4_OFFICE_1_2"
+  },
+  "1050400062": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400063": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400064": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400065": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400066": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400067": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400068": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400069": {
+    "section": "961",
+    "description": "SMUSOBL4_LIFT_LOBBY"
+  },
+  "1050400070": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400071": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400072": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400073": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400074": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400075": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400076": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400077": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400078": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400079": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400080": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400081": {
+    "section": "980",
+    "description": "SMUSOBL4_OFFICE_9_10"
+  },
+  "1050400082": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400083": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400084": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400085": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400086": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400087": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400088": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400089": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400090": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400091": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400092": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050400093": {
+    "section": "978",
+    "description": "SMUSOBL4_OFFICE_7_8"
+  },
+  "1050500001": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500002": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500003": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500004": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500005": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500006": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500007": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500008": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500009": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500010": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500011": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500012": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500013": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500014": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500015": {
+    "section": "1014",
+    "description": "SMUSOBL5_OFFICE_5_6"
+  },
+  "1050500016": {
+    "section": "1014",
+    "description": "SMUSOBL5_OFFICE_5_6"
+  },
+  "1050500017": {
+    "section": "1014",
+    "description": "SMUSOBL5_OFFICE_5_6"
+  },
+  "1050500018": {
+    "section": "1014",
+    "description": "SMUSOBL5_OFFICE_5_6"
+  },
+  "1050500019": {
+    "section": "1014",
+    "description": "SMUSOBL5_OFFICE_5_6"
+  },
+  "1050500020": {
+    "section": "1014",
+    "description": "SMUSOBL5_OFFICE_5_6"
+  },
+  "1050500021": {
+    "section": "1014",
+    "description": "SMUSOBL5_OFFICE_5_6"
+  },
+  "1050500022": {
+    "section": "1014",
+    "description": "SMUSOBL5_OFFICE_5_6"
+  },
+  "1050500023": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500024": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500025": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500026": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500027": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500028": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500029": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500030": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500031": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500032": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500033": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500034": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500035": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500036": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500037": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500038": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500039": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500040": {
+    "section": "1010",
+    "description": "SMUSOBL5_OFFICE_3_4"
+  },
+  "1050500041": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500042": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500043": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500044": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500045": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500046": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500047": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500048": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500049": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500050": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500051": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500052": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500053": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500054": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500055": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500056": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500057": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500058": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500059": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500060": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500061": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500062": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500063": {
+    "section": "1007",
+    "description": "SMUSOBL5_OFFICE_1_2"
+  },
+  "1050500064": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500065": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500066": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500067": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500068": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500069": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500070": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500071": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500072": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500073": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500074": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500075": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500076": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "1050500077": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500078": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500079": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500080": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500081": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500082": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500083": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500084": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500085": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500086": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500087": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500088": {
+    "section": "1016",
+    "description": "SMUSOBL5_OFFICE_7_8"
+  },
+  "1050500089": {
+    "section": "1014",
+    "description": "SMUSOBL5_OFFICE_5_6"
+  },
+  "1050500090": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500091": {
+    "section": "1001",
+    "description": "SMUSOBL5_LIFT_LOBBY"
+  },
+  "1050500092": {
+    "section": "1018",
+    "description": "SMUSOBL5_OFFICE_9_10"
+  },
+  "location_code": {
+    "section": "current_section",
+    "description": "mapped_location"
+  }
+}
